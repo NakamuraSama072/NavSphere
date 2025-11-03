@@ -1394,6 +1394,14 @@
               "description": "Build optimized websites quickly, focus on your content.",
               "icon": "/assets/favicon_1760512394163.png",
               "enabled": true
+            },
+            {
+              "id": "1762188337696",
+              "title": "WordPress.com：构建您网站所需的一切",
+              "href": "https://wordpress.com",
+              "description": "使用内置主机、高级套餐主题和强大的工具创建您的WordPress网站。无需技术设置。",
+              "icon": "/assets/favicon_1762188360425.ico",
+              "enabled": true
             }
           ]
         }
