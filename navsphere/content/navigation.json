@@ -6,6 +6,14 @@
       "icon": "Star",
       "items": [
         {
+          "id": "1762188865130",
+          "title": "Netlify",
+          "href": "https://www.netlify.com/",
+          "description": "Build with AI or code, deploy instantly. One platform with everything you need to make real apps live.",
+          "icon": "https://th.bing.com/th/id/OIP.eisA-2u8MzPRknQlqxp4WQHaHa?w=159&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3",
+          "enabled": true
+        },
+        {
           "id": "1_2",
           "title": "Vercel",
           "href": "https://vercel.com/",
@@ -107,14 +115,6 @@
           "href": "https://news.ycombinator.com/",
           "description": "",
           "icon": "/assets/favicon_1761724837449.svg",
-          "enabled": true
-        },
-        {
-          "id": "1762188865130",
-          "title": "Netlify",
-          "href": "https://www.netlify.com/",
-          "description": "Build with AI or code, deploy instantly. One platform with everything you need to make real apps live.",
-          "icon": "https://th.bing.com/th/id/OIP.eisA-2u8MzPRknQlqxp4WQHaHa?w=159&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3",
           "enabled": true
         }
       ],
