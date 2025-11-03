@@ -1386,6 +1386,14 @@
               "description": "Vue 驱动的静态网站生成器",
               "icon": "/assets/favicon_1760512644195.png",
               "enabled": true
+            },
+            {
+              "id": "1762187642881",
+              "title": "Hexo",
+              "href": "https://hexo.io",
+              "description": "Hexo 是一个由Node.js驱动的快速、简单的 &amp; 强大的博客框架。",
+              "icon": "/assets/favicon_1762187667872.png",
+              "enabled": true
             }
           ]
         }
