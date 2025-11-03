@@ -184,6 +184,14 @@
               "description": "Google开发的生成式人工智能聊天机器人。它基于同名的Gemini系列大型语言模型。",
               "icon": "/assets/images/logos/gemini.svg",
               "enabled": true
+            },
+            {
+              "id": "1762188570889",
+              "title": "Deepseek",
+              "href": "https://www.deepseek.com/",
+              "description": "世界领先的通用人工智能底层模型与技术",
+              "icon": "https://th.bing.com/th/id/OIP.rsLnmC3Do6X2YiebmRL9KQHaHa?w=108&h=108&c=1&bgcl=673e41&r=0&o=7&dpr=1.5&pid=ImgRC&rm=3",
+              "enabled": true
             }
           ]
         },
