@@ -1372,6 +1372,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "1762188274075",
+              "title": "VitePress",
+              "href": "https://vitepress.dev",
+              "description": "Vite & Vue powered static site generator.",
+              "icon": "https://vitepress.dev/vitepress-logo-large.svg",
+              "enabled": true
+            },
+            {
               "id": "1760512493923",
               "title": "VuePress",
               "href": "https://vuepress.vuejs.org/",
@@ -1393,14 +1401,6 @@
               "href": "https://docusaurus.io/",
               "description": "Build optimized websites quickly, focus on your content.",
               "icon": "/assets/favicon_1760512394163.png",
-              "enabled": true
-            },
-            {
-              "id": "1762188274075",
-              "title": "VitePress",
-              "href": "https://vitepress.dev",
-              "description": "Vite & Vue powered static site generator.",
-              "icon": "https://vitepress.dev/vitepress-logo-large.svg",
               "enabled": true
             }
           ]
