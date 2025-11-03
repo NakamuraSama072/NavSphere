@@ -1372,6 +1372,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "1760512493923",
+              "title": "VuePress",
+              "href": "https://vuepress.vuejs.org/",
+              "description": "Vue 驱动的静态网站生成器",
+              "icon": "/assets/favicon_1760512644195.png",
+              "enabled": true
+            },
+            {
               "id": "1762187642881",
               "title": "Hexo",
               "href": "https://hexo.io",
@@ -1385,14 +1393,6 @@
               "href": "https://docusaurus.io/",
               "description": "Build optimized websites quickly, focus on your content.",
               "icon": "/assets/favicon_1760512394163.png",
-              "enabled": true
-            },
-            {
-              "id": "1760512493923",
-              "title": "VuePress",
-              "href": "https://vuepress.vuejs.org/",
-              "description": "Vue 驱动的静态网站生成器",
-              "icon": "/assets/favicon_1760512644195.png",
               "enabled": true
             }
           ]
